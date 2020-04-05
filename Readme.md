@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Станислав Кондрашов](https://up.htmlacademy.ru/javascript/19/user/207684).
-* Наставник: `Неизвестно`.
+* Наставник: `Нет`.
 
 ---
 
